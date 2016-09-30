@@ -2,7 +2,7 @@
 <RadialixLocalizerProject>
   <Header FileVersion="19" Guid="{A65620C3-B9EF-41F3-89D0-FFC24093DF43}"/>
   <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3502" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
-    <StringTableSettings FocusedValueID="#3501.#56014" SortDirection="0" SortedColumnIndex="-1"/>
+    <StringTableSettings FocusedValueID="#3502.#56020" SortDirection="0" SortedColumnIndex="-1"/>
     <TextTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <AccelTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <ImageTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
@@ -15,14 +15,14 @@
     </Languages>
     <Info>
       <CreatedBy Date="2016-09-02T00-47-13">Radialix Версия 3.00.00  Сборка 486</CreatedBy>
-      <ModifiedBy Date="2016-09-07T18-06-39">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
+      <ModifiedBy Date="2016-09-30T20-19-22">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
       <Author>Dart Raiden</Author>
       <Organization/>
       <Comment/>
       <WebSite/>
       <ContactEMail/>
       <Copyright/>
-      <Version MajorNumber="1" MinorNumber="0" Revision="0" Build="20" AutoIncrementBuildNumber="1"/>
+      <Version MajorNumber="1" MinorNumber="0" Revision="0" Build="21" AutoIncrementBuildNumber="1"/>
     </Info>
     <Publisher>
       <ApplicationName>&lt;Title&gt; &lt;WinCode&gt;</ApplicationName>
@@ -943,7 +943,7 @@
       <DialogUnits>1</DialogUnits>
     </FormSettings>
     <TextTemplates/>
-    <File Name="C:\Program Files (x86)\Clover\3.1\lang\uires_ru.dll" Module="{A9D0200A-F9A1-4602-93E2-3F4179DC92DF}" Parser="Win32Executable" DateTimeStamp="4676090378704271808" FileSize="262144">
+    <File Name="C:\Program Files (x86)\Clover\3.1\lang\uires_ru.dll" Module="{58FB2050-76D1-4C54-BCFF-34FCE80A40EF}" Parser="Win32Executable" DateTimeStamp="4676093739047149820" FileSize="262144">
       <LangSettings/>
       <ExportSettings Current="Glossary">
         <Glossary FileName="" SortData="1" SkipDuplicates="1" RemoveAccelerators="1" RemoveAccelKeys="1" CaseSensitive="0">
@@ -6007,8 +6007,8 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
           </Vl>
         </Resource>
       </ResourceType>
-      <ResourceType Name="RT_STRING" Index="6" Class="RT_STRING">
-        <Resource Name="" Index="7" New="1">
+      <ResourceType New="1" Name="RT_STRING" Index="6" Class="RT_STRING">
+        <Resource Name="" Index="7">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6017,7 +6017,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="469" New="1">
+        <Resource Name="" Index="469">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6038,7 +6038,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="470" New="1">
+        <Resource Name="" Index="470">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6047,7 +6047,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="594" New="1">
+        <Resource Name="" Index="594">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6058,7 +6058,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="595" New="1">
+        <Resource Name="" Index="595">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6147,7 +6147,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="596" New="1">
+        <Resource Name="" Index="596">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6228,7 +6228,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="597" New="1">
+        <Resource Name="" Index="597">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6281,16 +6281,16 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
-          <Vl Index="10019" Ignore="1">
-            <Src>$1 - Chromium</Src>
-            <Trg Created="2016-09-02T00-47-58"/>
+          <Vl Index="10019" New="1" Ignore="1">
+            <Src>$1 - Clover</Src>
+            <Trg Created="2016-09-02T00-47-58" Changed="2016-09-30T20-18-51"/>
           </Vl>
-          <Vl Index="10027" Ignore="1">
-            <Src>Chromium Toolbar</Src>
-            <Trg Created="2016-09-02T00-47-58" Changed="2016-09-02T02-05-39"/>
+          <Vl Index="10027" New="1" Ignore="1">
+            <Src>Clover Toolbar</Src>
+            <Trg Created="2016-09-02T00-47-58" Changed="2016-09-30T20-18-51"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="689" New="1">
+        <Resource Name="" Index="689">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6305,7 +6305,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58" Translated="2016-09-02T01-19-11" State="Validated"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="694" New="1">
+        <Resource Name="" Index="694">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6316,7 +6316,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="697" New="1">
+        <Resource Name="" Index="697">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6327,7 +6327,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="736" New="1">
+        <Resource Name="" Index="736">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6338,7 +6338,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="750" New="1">
+        <Resource Name="" Index="750">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6359,7 +6359,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58" Translated="2016-09-02T00-57-36" State="Validated"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="752" New="1">
+        <Resource Name="" Index="752">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6380,7 +6380,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58" Translated="2016-09-02T00-57-28" State="Validated"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="753" New="1">
+        <Resource Name="" Index="753">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6413,7 +6413,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="754" New="1">
+        <Resource Name="" Index="754">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6442,7 +6442,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="775" New="1">
+        <Resource Name="" Index="775">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6451,7 +6451,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58" Translated="2016-09-02T00-48-30" State="Validated"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="823" New="1">
+        <Resource Name="" Index="823">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6466,7 +6466,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="826" New="1">
+        <Resource Name="" Index="826">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6535,7 +6535,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="832" New="1">
+        <Resource Name="" Index="832">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6590,7 +6590,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="833" New="1">
+        <Resource Name="" Index="833">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6611,7 +6611,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="3264" New="1">
+        <Resource Name="" Index="3264">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6630,7 +6630,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="3438" New="1">
+        <Resource Name="" Index="3438">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6661,7 +6661,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="3439" New="1">
+        <Resource Name="" Index="3439">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6710,7 +6710,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58" Translated="2016-09-02T00-50-01" State="Validated"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="3445" New="1">
+        <Resource Name="" Index="3445">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6755,7 +6755,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="3501" New="1">
+        <Resource Name="" Index="3501">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6874,6 +6874,18 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Src>система подсказок?</Src>
             <Trg Created="2016-09-07T17-37-56" Changed="2016-09-07T17-45-56" Translated="2016-09-07T17-45-56" State="Validated">
               <cur>Системное напоминание</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="56019" New="1">
+            <Src>Yes</Src>
+            <Trg Created="2016-09-30T20-18-51" Changed="2016-09-30T20-19-07" Translated="2016-09-30T20-19-07" State="Validated">
+              <cur>Да</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="56020" New="1">
+            <Src>No</Src>
+            <Trg Created="2016-09-30T20-18-51" Changed="2016-09-30T20-19-11" Translated="2016-09-30T20-19-11" State="Validated">
+              <cur>Нет</cur>
             </Trg>
           </Vl>
         </Resource>
