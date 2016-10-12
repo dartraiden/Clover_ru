@@ -2,7 +2,7 @@
 <RadialixLocalizerProject>
   <Header FileVersion="19" Guid="{A65620C3-B9EF-41F3-89D0-FFC24093DF43}"/>
   <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3502" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
-    <StringTableSettings FocusedValueID="#3502.#56020" SortDirection="0" SortedColumnIndex="-1"/>
+    <StringTableSettings FocusedValueID="#3502.#56021" SortDirection="0" SortedColumnIndex="-1"/>
     <TextTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <AccelTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <ImageTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
@@ -15,7 +15,7 @@
     </Languages>
     <Info>
       <CreatedBy Date="2016-09-02T00-47-13">Radialix Версия 3.00.00  Сборка 486</CreatedBy>
-      <ModifiedBy Date="2016-09-30T20-19-22">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
+      <ModifiedBy Date="2016-10-12T09-28-10">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
       <Author>Dart Raiden</Author>
       <Organization/>
       <Comment/>
@@ -943,7 +943,7 @@
       <DialogUnits>1</DialogUnits>
     </FormSettings>
     <TextTemplates/>
-    <File Name="C:\Program Files (x86)\Clover\3.1\lang\uires_ru.dll" Module="{58FB2050-76D1-4C54-BCFF-34FCE80A40EF}" Parser="Win32Executable" DateTimeStamp="4676093739047149820" FileSize="262144">
+    <File Name="C:\Program Files (x86)\Clover\3.1\lang\uires_ru.dll" Module="{F13B60C6-FD2D-42DF-BB14-B60B02ACEF8D}" Parser="Win32Executable" DateTimeStamp="4676095326300435188" FileSize="262144">
       <LangSettings/>
       <ExportSettings Current="Glossary">
         <Glossary FileName="" SortData="1" SkipDuplicates="1" RemoveAccelerators="1" RemoveAccelKeys="1" CaseSensitive="0">
@@ -6277,15 +6277,15 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="627" New="1">
+        <Resource Name="" Index="627">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
-          <Vl Index="10019" New="1" Ignore="1">
+          <Vl Index="10019" Ignore="1">
             <Src>$1 - Clover</Src>
             <Trg Created="2016-09-02T00-47-58" Changed="2016-09-30T20-18-51"/>
           </Vl>
-          <Vl Index="10027" New="1" Ignore="1">
+          <Vl Index="10027" Ignore="1">
             <Src>Clover Toolbar</Src>
             <Trg Created="2016-09-02T00-47-58" Changed="2016-09-30T20-18-51"/>
           </Vl>
@@ -6876,22 +6876,26 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
               <cur>Системное напоминание</cur>
             </Trg>
           </Vl>
-          <Vl Index="56019" New="1">
+          <Vl Index="56019">
             <Src>Yes</Src>
             <Trg Created="2016-09-30T20-18-51" Changed="2016-09-30T20-19-07" Translated="2016-09-30T20-19-07" State="Validated">
               <cur>Да</cur>
             </Trg>
           </Vl>
-          <Vl Index="56020" New="1">
+          <Vl Index="56020">
             <Src>No</Src>
             <Trg Created="2016-09-30T20-18-51" Changed="2016-09-30T20-19-11" Translated="2016-09-30T20-19-11" State="Validated">
               <cur>Нет</cur>
             </Trg>
           </Vl>
+          <Vl Index="56021" New="1">
+            <Src>Копировать</Src>
+            <Trg Created="2016-10-12T09-27-54" Translated="2016-10-12T09-28-10" State="Validated"/>
+          </Vl>
         </Resource>
       </ResourceType>
-      <ResourceType Name="RT_ACCELERATOR" Index="9" Class="RT_ACCELERATOR">
-        <Resource Name="" Index="34464">
+      <ResourceType New="1" Name="RT_ACCELERATOR" Index="9" Class="RT_ACCELERATOR">
+        <Resource Name="" Index="34464" New="1">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -7162,6 +7166,10 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
           <Vl Index="40009" ReadOnly="1">
             <Src>Shift+Ctrl+B</Src>
             <Trg Created="2016-09-02T00-47-58"/>
+          </Vl>
+          <Vl Index="40009" New="1" ReadOnly="1">
+            <Src>Ctrl+B</Src>
+            <Trg Created="2016-10-12T09-27-54"/>
           </Vl>
           <Vl Index="40011" ReadOnly="1">
             <Src>Shift+Ctrl+O</Src>
