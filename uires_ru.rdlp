@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <RadialixLocalizerProject>
   <Header FileVersion="19" Guid="{A65620C3-B9EF-41F3-89D0-FFC24093DF43}"/>
-  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3502" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
-    <StringTableSettings FocusedValueID="#3502.#56020" SortDirection="0" SortedColumnIndex="-1"/>
+  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3445" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
+    <StringTableSettings FocusedValueID="#3445.#55112" SortDirection="0" SortedColumnIndex="-1"/>
     <TextTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <AccelTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <ImageTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
@@ -15,14 +15,14 @@
     </Languages>
     <Info>
       <CreatedBy Date="2016-09-02T00-47-13">Radialix Версия 3.00.00  Сборка 486</CreatedBy>
-      <ModifiedBy Date="2016-11-15T22-49-56">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
+      <ModifiedBy Date="2017-01-20T02-25-27">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
       <Author>Dart Raiden</Author>
       <Organization/>
       <Comment/>
       <WebSite/>
       <ContactEMail/>
       <Copyright/>
-      <Version MajorNumber="1" MinorNumber="0" Revision="0" Build="23" AutoIncrementBuildNumber="1"/>
+      <Version MajorNumber="1" MinorNumber="0" Revision="0" Build="24" AutoIncrementBuildNumber="1"/>
     </Info>
     <Publisher>
       <ApplicationName>&lt;Title&gt; &lt;WinCode&gt;</ApplicationName>
@@ -943,7 +943,7 @@
       <DialogUnits>1</DialogUnits>
     </FormSettings>
     <TextTemplates/>
-    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Module="{7E242DB7-E2A4-4EAC-9946-A8249F12FCDA}" Parser="Win32Executable" DateTimeStamp="4676100075201490081" FileSize="262656">
+    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Module="{1A2AFA9D-9645-47A6-8A85-125FF178CBF5}" Parser="Win32Executable" DateTimeStamp="4676109029173067185" FileSize="268288">
       <LangSettings/>
       <ExportSettings Current="Glossary">
         <Glossary FileName="" SortData="1" SkipDuplicates="1" RemoveAccelerators="1" RemoveAccelKeys="1" CaseSensitive="0">
@@ -972,7 +972,7 @@
         </Filters>
       </ExportSettings>
       <EmbeddedFiles/>
-      <ResourceType Name="BINDATA" Class="CUSTOM">
+      <ResourceType New="1" Name="BINDATA" Class="CUSTOM">
         <Resource Binary="1" Name="" Index="1000" ReadOnly="1" Type="PNG">
           <SourceLanguages>
             <LangID>2052</LangID>
@@ -5690,6 +5690,152 @@ AElFTkSuQmCC</Src>
             <Trg Created="2016-09-02T00-47-58"/>
           </Vl>
         </Resource>
+        <Resource Binary="1" Name="" Index="56024" ReadOnly="1" Type="PNG">
+          <SourceLanguages>
+            <LangID>2052</LangID>
+          </SourceLanguages>
+          <Vl Index="0" ReadOnly="1" SerializedAsBinaryArray="1">
+            <Src dt="binary.base64">
+iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFn
+ZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/
+IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6
+bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8w
+My8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9y
+Zy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIg
+eG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDov
+L25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20v
+eGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9w
+IENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBMUZFQ0Q0MEIyRTkxMUU2OTM1
+MUM3MEJCRTlFODI4OSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBMUZFQ0Q0MUIyRTkxMUU2OTM1
+MUM3MEJCRTlFODI4OSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlk
+OkExRkVDRDNFQjJFOTExRTY5MzUxQzcwQkJFOUU4Mjg5IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlk
+OkExRkVDRDNGQjJFOTExRTY5MzUxQzcwQkJFOUU4Mjg5Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3Jk
+ZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+vjFA6gAAAWFJREFUeNrE1E8oREEc
+wPG3a7mQ5LJJUY5O/kSIXNyUCydyw4W4rIOLs+SKojg4KG0tJXFzILWXzb+9kqJo08ZF/uzznfq9mqaR
+t88rv/r03rx5+9t585uZqOu6TphiieS9E1YsDdU6USfk8JtwFg+o+mvCEixjGtWo1PqasIYyvwnLkUI3
+OvFm9N+gA4v6w5h2X492uY8ggTx68KK9NyJ/pkY3gCts4txMeIYc3qV9jDl8GCPL4giv2MYGxjFlJqyR
+T7j7YQoq5JrBJBYk4S7Wi62yVyAv9tEgRbpFXZCEeqjlU5BClerTEjShWkaHMt/NuLBV+RPDeJb2NU4t
+yQYxhl5pq9/s2UY4gxb0iQPMyxLS4wRtUu1+dGHVNsIV4UWjVLAVo9rzR7nGsYUJWa+/zmFWFrqqbtrS
+n5PPThazl/OyG3bwpI+E+MJlkNOmIHMZN7agNSLqlP2P89B3fAswAKsegpHQTHlSAAAAAElFTkSuQmCC
+</Src>
+            <Trg Created="2016-12-03T00-43-24"/>
+          </Vl>
+        </Resource>
+        <Resource Binary="1" Name="" Index="56025" ReadOnly="1" Type="PNG">
+          <SourceLanguages>
+            <LangID>2052</LangID>
+          </SourceLanguages>
+          <Vl Index="0" ReadOnly="1" SerializedAsBinaryArray="1">
+            <Src dt="binary.base64">
+iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFn
+ZVJlYWR5ccllPAAAA1lpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/
+IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6
+bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8w
+My8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9y
+Zy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIg
+eG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJo
+dHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0
+dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0iQTU1NURB
+RkFFMjFFRkQ2RkM1QTBDMzRCMEE0OUZBRDUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MUIwRkI2
+NTBCMkVDMTFFNkIwMDU5NzU4MTYyRkFDMjgiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MUIwRkI2
+NEZCMkVDMTFFNkIwMDU5NzU4MTYyRkFDMjgiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9w
+IENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlk
+OjQ5NmUzMTRiLTM3MGMtZWE0ZC1iZDUxLTA1M2FkNTk0YjYzMCIgc3RSZWY6ZG9jdW1lbnRJRD0iQTU1
+NURBRkFFMjFFRkQ2RkM1QTBDMzRCMEE0OUZBRDUiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJE
+Rj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5s5ZgnAAAFSklEQVR42hyUW2xUdR7HP+c2
+Z+bMdG7ttJS2tFDbobTSchMKNZqorALrdY2XaNSYzYrZjfpmfDLG4CXRpzVBnlbjixIhGmNgIc0iuyDX
+ItClUGk7tLWX6UznfjlzLv7tw3k4Oed8z/fz/X1/f8l1TwH+rnJy4cOP3/jowYmZxaCiatRsG8txcVwX
+RdGo1mpUTAtd9/DOqw+ztXcNuWyOSrGcs83KyUqp9LZZro5Lrvtz3LX1n7/+9LPwt19+hy3kHWRkVaVq
+2ciaDpJE1TQxxf1ytkCsPsKh916ivSVIPrVMMZunVipmzGJphwzhA7/890L4XwcPU3UVVN3HHw4j4SiS
+5lkRXUxlyJVNbPFcN3wk5tMcPTWKEmtEDQTR6vyodf6wp85/QMZVHjx59Dim4whnCDQLRdNWUMvlKq4E
+r7/2FNsEomGo+P0GiizTtq4NAhG8kShGOEJNUVmq2btlHCmoKjKWi8AVmUnyyjWbXMKqVnnukXt57KEd
+DG7byvbeNpGhSk1ke/7KbRxHRQ0JwfoG3LowlYgdUCtFi5u3plZETMsRjoSyUA8YGlu7oqiFJBf+fZxo
+IMql0Ql8Hg1VEIxcG8e2RdayBl4/yTLoWjtyPp3jTmJaCMkrU7Vsh2yhQMCnMdAZQ/cqaG6B2xfPEPTp
+hDwSuUKR3p670IQ7bBXZ76NYzZBOiZ/NJibJF8pCTBLAMqrIxxZOB+Ld5OUgs4kE6V8tAq7NzGKBhki9
+eEuic63IUBLuFB/kz+PMzzKVLKEe+uxzMcEa9aEg7U0N/H92gWrVZNeePQT0EGdPDNPmcegf2sLMR4eo
+7xtgtmzx8J/uR4QpcHVuHB3l4qlzxDqaUM+eu4zj8aDWbFqLJUZFgcMCIbaqhXWDQ/T2r4FVvcJJmH8k
+l/nx2EmefGov8cGdkEmBqNbInIWUDbB6OSoyNF3RNZccNWadKrqqkxEO3PQdqMxBc1yIqRRvnaFSLpCW
+dYKhkMANiykY/NGrQGMzczmXawrIMUOhJKw7osC7ux0KQjga0cgtTEIpI7AqlNJZZo79yK9zGU5P/MaR
+L79iduyc+FoVyAb7nt6D6q/R3FBBfaI3RAKD7MVpHqsWubG9ntPjjYxX/AxM3UKKLJH+6SrFqxPcnpkm
+sZRCkwq8/pfn2Li5j0cf38fm7f2sXR1jITGP8taL698tpao8tDGENJEnFokw5WvnxPkqixPDGPNzxDet
+p2YWubKQISMGVFzKc3uhgF1K8cuVERLjUywvJcWUs0ivDK52y/NZlIhOsxd2rtE5OGJyaUEh3iqqlMrS
+s6YDVSymv8mPUoXhM1epBA3izWH6W/ycv5NmcqnC2o5GlFfva3r35X0d9PklvGI321sDLJqIPlp88Mnf
+OXb8Esn5JF7Rw8l0ipJwOZqroXtk3vzbbpyZOySzFR7Y1orH8CC/9ulbuVCbQdOue9j37BYWKy5+j8EL
+f+5jYGADXetX0SSOL49VI+OKBoi9N1SJqYUSiZxD9/bN9DTpFGwPZrZcUPbfVbft4D9/6rkwl2LvE6vp
+3LufoXsH6OpvES40hob6SM1NU6x5efmZQRbFMTY2Ns/mDoNHd3YTGrqfyz+cYKiznq6ulh+UpumbV21N
+f2FwS4vXVCMcPvA9l67N07yumW8+P8xv1xNs6IBonU4tt8Ri3qRkWcQ7o7R2b2DTro1kBPLdm1oydb7c
+8/Ijf71vrGVD144TX9w48v7+7/PTdRE6emQmz54WRS5x/eYUZ67nSObyhMNe4iKGBnGIX76REm6LNMas
+vFiHI/8bHtnxn+GJsd8FGAAl+WRJv858dQAAAABJRU5ErkJggg==</Src>
+            <Trg Created="2016-12-03T00-43-24"/>
+          </Vl>
+        </Resource>
+        <Resource Binary="1" Name="" Index="56026" New="1" ReadOnly="1" Type="PNG">
+          <SourceLanguages>
+            <LangID>2052</LangID>
+          </SourceLanguages>
+          <Vl Index="0" New="1" ReadOnly="1" SerializedAsBinaryArray="1">
+            <Src dt="binary.base64">
+iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAABdElEQVQ4jWNkYGDwZaAhYKKl4cPDAhZi
+FLm5uQn19PSEfv/+/fv/////8/Dw8NbU1KzZsGHDK0J6GRkIRLKAgADzkSNHMh49evTIy8trMwMDA8Pq
+1atdtLW1tby9vWfdv3//Bz79BIOosbHR4O3bt29ghjMwMDCEhobuef/+/ZumpiYzQvoJWsDBwcH658+f
+3+jif/78+cvOzs5KsQWtra3nxcXFxXt6evRhYtXV1eoiIiIi7e3tJwnpJxjJjx49+rl27dqDdXV1HXZ2
+duv+/v3728LCInzSpEkN58+f/0JIP8FInjp1qqmzs7PV+fPnLz19+vTdv3//GKSkpASMjIz0Tp8+fSE+
+Pv4w2T5oaGjQjIyMjCwuLu6bP3/+E2S5gICA63PmzKmYOHHi1/z8/HNk+eDRo0d1a9as2VxUVHQem3x5
+eblqXl5ejLS0dD0uM/BG8ps3b57iMpyBgYGhs7Pz9qNHj27jM4NgHFAKhn5hR3MLAEzgkGE9ssnsAAAA
+AElFTkSuQmCC</Src>
+            <Trg Created="2017-01-20T02-21-22"/>
+          </Vl>
+        </Resource>
+        <Resource Binary="1" Name="" Index="56027" New="1" ReadOnly="1" Type="PNG">
+          <SourceLanguages>
+            <LangID>2052</LangID>
+          </SourceLanguages>
+          <Vl Index="0" New="1" ReadOnly="1" SerializedAsBinaryArray="1">
+            <Src dt="binary.base64">
+iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAABfElEQVQ4jWNkYGBoYKAhYKKl4cPDAhZi
+FOnr6/P29PTYfvv27ee/f//+8/Pzc1VWVh4+efLkR0J6CfqAi4uLacKECfb37t176+/vvzcwMHDf+fPn
+n3R3d9uLioqyEtLPzMDA4IBPQW5urjIfHx9bYmLiMZjYrl27Xnh5eUmqqKhw7du37xVFPmBnZ2f5/fv3
+X3Tx379//2NnZycYxAQtmDVr1l1ZWVmB7OxsJZhYTEyMjJSUFP/UqVNvENJP0AVv3779vXjx4svz5s1L
+dHd3P/r79++/QUFBdoWFhUsfPHjwg5B+RgYCObm0tFTN399f88iRI/cfP3785f////+lpaV5bGxsFA8e
+PHi3rq7uKtk+SEhIkM3NzXVITk5et3v37jfIcubm5o9Wr14d9u7du58TJky4g8sMvHFQXFxs29PTsxfd
+cAYGBoaTJ09+LCsr25qWlmaBzwy8Fjx+/PjtpEmT7uKSX7FixbMbN248w2cGwTigFAz9wo7mFgAADgeR
+YWlaewIAAAAASUVORK5CYII=</Src>
+            <Trg Created="2017-01-20T02-21-22"/>
+          </Vl>
+        </Resource>
+        <Resource Binary="1" Name="" Index="56028" New="1" ReadOnly="1" Type="PNG">
+          <SourceLanguages>
+            <LangID>2052</LangID>
+          </SourceLanguages>
+          <Vl Index="0" New="1" ReadOnly="1" SerializedAsBinaryArray="1">
+            <Src dt="binary.base64">
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAaCAYAAAA9rOU8AAABY0lEQVRIie2WUW/CIBSFD5c1kSI2Jrb+
+/x9nYtKaxkalQIE9LDHbtJutzvnQ88i9HL4QDsA2m03Ei4j+G+CzJpg+TTB9ertn8mw2g5QSMX4EkjEG
+rTVOp9NzYaSUUEqhaZrz4kIIZFkGIsLhcHgODBFBSomqqtB13Xlcaw1jDFarFdq2/VK7yXcMTJqmMMZc
+XSyEAGMM0jQd7DsKhogQQuithxBANNx6FIy1FkmS9NaTJIFz7jkwbduCiJBl2UVNKQXOOY7H42Bfds9D
+WRTFOc4xRgghQETYbrej/EZfekopOOfQdR0YY2CMwXsPay0Wi8Uoz1HRLooCMUbUdX2RKM45lssl1us1
+yrL88aB/1+CdyfMc3nuUZXk12t57VFUFay3yPB/kPQhmPp+Dc47dbvdrb13XiDFePeQPg2ma5ub+/X4P
+IcTfwDjnoLW+ud8YA2PMzf13RfvReqn/zATTpwmmT+8+o54L9jI8cwAAAABJRU5ErkJggg==</Src>
+            <Trg Created="2017-01-20T02-21-22"/>
+          </Vl>
+        </Resource>
+        <Resource Binary="1" Name="" Index="56029" New="1" ReadOnly="1" Type="PNG">
+          <SourceLanguages>
+            <LangID>2052</LangID>
+          </SourceLanguages>
+          <Vl Index="0" New="1" ReadOnly="1" SerializedAsBinaryArray="1">
+            <Src dt="binary.base64">
+iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAABdklEQVQ4jWNkYGDYzEBDwERLw4eHBSzE
+KFJWVuZoa2tT+fLly59///4xCAkJsdbW1t65du3ad0J6CfqAnZ2dsaurS+327dtfk5OTb6Smpt44derU
+h/b2djV+fn5mQvqZGRgYovApiIqKEuPl5WUuLS29CxM7evToJwcHB35paWn2kydPfqbUB0y/f//+hy7+
+69ev/xwcHAT1E1SwatWq1/Ly8lzh4eEiMDFPT09BWVlZzkWLFr0gpJ9gJH/69OnvokWLnm7cuNHKw8Pj
+7q9fv/6lpaWpxsbGnnzx4sVvQvoZGQjk5ISEBPHg4GCJAwcOvH3y5MmP////M0hKSrI7OTkJ7969+82U
+KVOeke0DHx8focrKSrWYmJjzp0+f/oIst3v37nfr1q0z+fDhw+8lS5a8JssHR48eNZsyZcr95cuXYzXA
+1dVVoLW1Vd3MzOwkLjPwRvL9+/e/4DKcgYGBYffu3R8uXLjwAZ8ZBOOAUjD0CzuaWwAAZBeR5fIDk/IA
+AAAASUVORK5CYII=</Src>
+            <Trg Created="2017-01-20T02-21-22"/>
+          </Vl>
+        </Resource>
       </ResourceType>
       <ResourceType ReadOnly="1" Name="RT_ICON" Index="3" Class="RT_ICON">
         <Resource Binary="1" Name="" Index="13315" ReadOnly="1">
@@ -6710,7 +6856,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58" Translated="2016-09-02T00-50-01" State="Validated"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="3445">
+        <Resource Name="" Index="3445" New="1">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6753,6 +6899,10 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58" Changed="2016-09-02T02-32-49" Translated="2016-09-02T02-32-49" State="Validated">
               <cur>Вы используете самую свежую версию\0x20</cur>
             </Trg>
+          </Vl>
+          <Vl Index="55115" New="1">
+            <Src>Центр пользователя</Src>
+            <Trg Created="2017-01-20T02-21-22" Translated="2017-01-20T02-25-23" State="Validated"/>
           </Vl>
         </Resource>
         <Resource Name="" Index="3501">
@@ -6854,7 +7004,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="3502" New="1">
+        <Resource Name="" Index="3502">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6892,13 +7042,13 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Src>Копировать</Src>
             <Trg Created="2016-10-12T09-27-54" Translated="2016-10-12T09-28-10" State="Validated"/>
           </Vl>
-          <Vl Index="56022" New="1">
+          <Vl Index="56022">
             <Src>закрепить вкладку</Src>
             <Trg Created="2016-11-15T22-49-39" Changed="2016-11-15T22-49-51" Translated="2016-11-15T22-49-51" State="Validated">
               <cur>Закрепить вкладку</cur>
             </Trg>
           </Vl>
-          <Vl Index="56023" New="1">
+          <Vl Index="56023">
             <Src>Открепить вкладку</Src>
             <Trg Created="2016-11-15T22-49-39" Translated="2016-11-15T22-49-55" State="Validated"/>
           </Vl>
