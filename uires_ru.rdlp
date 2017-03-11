@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <RadialixLocalizerProject>
   <Header FileVersion="19" Guid="{A65620C3-B9EF-41F3-89D0-FFC24093DF43}"/>
-  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3445" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
-    <StringTableSettings FocusedValueID="#3445.#55112" SortDirection="0" SortedColumnIndex="-1"/>
+  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3502" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
+    <StringTableSettings FocusedValueID="#3502.#56023" SortDirection="0" SortedColumnIndex="-1"/>
     <TextTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <AccelTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <ImageTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
@@ -15,7 +15,7 @@
     </Languages>
     <Info>
       <CreatedBy Date="2016-09-02T00-47-13">Radialix Версия 3.00.00  Сборка 486</CreatedBy>
-      <ModifiedBy Date="2017-01-20T02-25-27">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
+      <ModifiedBy Date="2017-03-11T17-01-19">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
       <Author>Dart Raiden</Author>
       <Organization/>
       <Comment/>
@@ -943,7 +943,7 @@
       <DialogUnits>1</DialogUnits>
     </FormSettings>
     <TextTemplates/>
-    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Module="{1A2AFA9D-9645-47A6-8A85-125FF178CBF5}" Parser="Win32Executable" DateTimeStamp="4676109029173067185" FileSize="268288">
+    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Module="{F1D5369B-7F19-4D32-B929-538408ECEB1B}" Parser="Win32Executable" DateTimeStamp="4676115985119789560" FileSize="268288">
       <LangSettings/>
       <ExportSettings Current="Glossary">
         <Glossary FileName="" SortData="1" SkipDuplicates="1" RemoveAccelerators="1" RemoveAccelKeys="1" CaseSensitive="0">
@@ -972,7 +972,7 @@
         </Filters>
       </ExportSettings>
       <EmbeddedFiles/>
-      <ResourceType New="1" Name="BINDATA" Class="CUSTOM">
+      <ResourceType Name="BINDATA" Class="CUSTOM">
         <Resource Binary="1" Name="" Index="1000" ReadOnly="1" Type="PNG">
           <SourceLanguages>
             <LangID>2052</LangID>
@@ -5769,11 +5769,11 @@ vFiHI/8bHtnxn+GJsd8FGAAl+WRJv858dQAAAABJRU5ErkJggg==</Src>
             <Trg Created="2016-12-03T00-43-24"/>
           </Vl>
         </Resource>
-        <Resource Binary="1" Name="" Index="56026" New="1" ReadOnly="1" Type="PNG">
+        <Resource Binary="1" Name="" Index="56026" ReadOnly="1" Type="PNG">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
-          <Vl Index="0" New="1" ReadOnly="1" SerializedAsBinaryArray="1">
+          <Vl Index="0" ReadOnly="1" SerializedAsBinaryArray="1">
             <Src dt="binary.base64">
 iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAABdElEQVQ4jWNkYGDwZaAhYKKl4cPDAhZi
 FLm5uQn19PSEfv/+/fv/////8/Dw8NbU1KzZsGHDK0J6GRkIRLKAgADzkSNHMh49evTIy8trMwMDA8Pq
@@ -5786,11 +5786,11 @@ AElFTkSuQmCC</Src>
             <Trg Created="2017-01-20T02-21-22"/>
           </Vl>
         </Resource>
-        <Resource Binary="1" Name="" Index="56027" New="1" ReadOnly="1" Type="PNG">
+        <Resource Binary="1" Name="" Index="56027" ReadOnly="1" Type="PNG">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
-          <Vl Index="0" New="1" ReadOnly="1" SerializedAsBinaryArray="1">
+          <Vl Index="0" ReadOnly="1" SerializedAsBinaryArray="1">
             <Src dt="binary.base64">
 iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAABfElEQVQ4jWNkYGBoYKAhYKKl4cPDAhZi
 FOnr6/P29PTYfvv27ee/f//+8/Pzc1VWVh4+efLkR0J6CfqAi4uLacKECfb37t176+/vvzcwMHDf+fPn
@@ -5803,11 +5803,11 @@ YWlaewIAAAAASUVORK5CYII=</Src>
             <Trg Created="2017-01-20T02-21-22"/>
           </Vl>
         </Resource>
-        <Resource Binary="1" Name="" Index="56028" New="1" ReadOnly="1" Type="PNG">
+        <Resource Binary="1" Name="" Index="56028" ReadOnly="1" Type="PNG">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
-          <Vl Index="0" New="1" ReadOnly="1" SerializedAsBinaryArray="1">
+          <Vl Index="0" ReadOnly="1" SerializedAsBinaryArray="1">
             <Src dt="binary.base64">
 iVBORw0KGgoAAAANSUhEUgAAACMAAAAaCAYAAAA9rOU8AAABY0lEQVRIie2WUW/CIBSFD5c1kSI2Jrb+
 /x9nYtKaxkalQIE9LDHbtJutzvnQ88i9HL4QDsA2m03Ei4j+G+CzJpg+TTB9ertn8mw2g5QSMX4EkjEG
@@ -5819,11 +5819,11 @@ IcTfwDjnoLW+ud8YA2PMzf13RfvReqn/zATTpwmmT+8+o54L9jI8cwAAAABJRU5ErkJggg==</Src>
             <Trg Created="2017-01-20T02-21-22"/>
           </Vl>
         </Resource>
-        <Resource Binary="1" Name="" Index="56029" New="1" ReadOnly="1" Type="PNG">
+        <Resource Binary="1" Name="" Index="56029" ReadOnly="1" Type="PNG">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
-          <Vl Index="0" New="1" ReadOnly="1" SerializedAsBinaryArray="1">
+          <Vl Index="0" ReadOnly="1" SerializedAsBinaryArray="1">
             <Src dt="binary.base64">
 iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAABdklEQVQ4jWNkYGDYzEBDwERLw4eHBSzE
 KFJWVuZoa2tT+fLly59///4xCAkJsdbW1t65du3ad0J6CfqAnZ2dsaurS+327dtfk5OTb6Smpt44derU
@@ -6359,7 +6359,9 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
           </Vl>
           <Vl Index="9532" Ignore="1">
             <Src>Home</Src>
-            <Trg Created="2016-09-02T00-47-58"/>
+            <Trg Created="2016-09-02T00-47-58" Changed="2017-03-11T16-58-26" State="ForReview">
+              <cur>Верх</cur>
+            </Trg>
           </Vl>
           <Vl Index="9533" Ignore="1">
             <Src>Del</Src>
@@ -6367,7 +6369,9 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
           </Vl>
           <Vl Index="9534" Ignore="1">
             <Src>End</Src>
-            <Trg Created="2016-09-02T00-47-58"/>
+            <Trg Created="2016-09-02T00-47-58" Changed="2017-03-11T16-58-26" State="ForReview">
+              <cur>Низ</cur>
+            </Trg>
           </Vl>
           <Vl Index="9535" Ignore="1">
             <Src>PgUp</Src>
@@ -6856,7 +6860,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58" Translated="2016-09-02T00-50-01" State="Validated"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="3445" New="1">
+        <Resource Name="" Index="3445">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -6900,7 +6904,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
               <cur>Вы используете самую свежую версию\0x20</cur>
             </Trg>
           </Vl>
-          <Vl Index="55115" New="1">
+          <Vl Index="55115">
             <Src>Центр пользователя</Src>
             <Trg Created="2017-01-20T02-21-22" Translated="2017-01-20T02-25-23" State="Validated"/>
           </Vl>
@@ -7004,7 +7008,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="3502">
+        <Resource Name="" Index="3502" New="1">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -7051,6 +7055,14 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
           <Vl Index="56023">
             <Src>Открепить вкладку</Src>
             <Trg Created="2016-11-15T22-49-39" Translated="2016-11-15T22-49-55" State="Validated"/>
+          </Vl>
+          <Vl Index="56030" New="1">
+            <Src>
+              <Data>\0xA0рекомендует\0xA0\0xA0открыть\0xA0\0xA0новости\0xA0</Data>
+            </Src>
+            <Trg Created="2017-03-11T16-58-31" Changed="2017-03-11T17-01-18" Translated="2017-03-11T17-01-18" State="Validated">
+              <cur>Открыть рекомендуемые новости</cur>
+            </Trg>
           </Vl>
         </Resource>
       </ResourceType>
