@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <RadialixLocalizerProject>
   <Header FileVersion="19" Guid="{A65620C3-B9EF-41F3-89D0-FFC24093DF43}"/>
-  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3501" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
-    <StringTableSettings FocusedValueID="#3501.#56009" SortDirection="0" SortedColumnIndex="-1"/>
+  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3505" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
+    <StringTableSettings FocusedValueID="#3505.#56073" SortDirection="0" SortedColumnIndex="-1"/>
     <TextTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <AccelTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <ImageTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
@@ -15,14 +15,14 @@
     </Languages>
     <Info>
       <CreatedBy Date="2016-09-02T00-47-13">Radialix Версия 3.00.00  Сборка 486</CreatedBy>
-      <ModifiedBy Date="2017-05-12T15-08-52">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
+      <ModifiedBy Date="2017-06-14T02-26-19">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
       <Author>Dart Raiden</Author>
       <Organization/>
       <Comment/>
       <WebSite/>
       <ContactEMail/>
       <Copyright/>
-      <Version MajorNumber="1" MinorNumber="0" Revision="0" Build="32" AutoIncrementBuildNumber="1"/>
+      <Version MajorNumber="1" MinorNumber="0" Revision="0" Build="37" AutoIncrementBuildNumber="1"/>
     </Info>
     <Publisher>
       <ApplicationName>&lt;Title&gt; &lt;WinCode&gt;</ApplicationName>
@@ -943,7 +943,7 @@
       <DialogUnits>1</DialogUnits>
     </FormSettings>
     <TextTemplates/>
-    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Module="{F3C3433F-F15D-4D30-9ED3-9EA694B2C990}" Parser="Win32Executable" DateTimeStamp="4676123524786992420" FileSize="275456">
+    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Parser="Win32Executable" DateTimeStamp="4676128956089459372" FileSize="276480">
       <LangSettings/>
       <ExportSettings Current="Glossary">
         <Glossary FileName="" SortData="1" SkipDuplicates="1" RemoveAccelerators="1" RemoveAccelKeys="1" CaseSensitive="0">
@@ -6878,7 +6878,9 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
           </Vl>
           <Vl Index="13310">
             <Src>Путь:</Src>
-            <Trg Created="2016-09-02T00-47-58" Changed="2016-09-02T01-58-32" Translated="2016-09-02T01-58-32" State="Validated"/>
+            <Trg Created="2016-09-02T00-47-58" Changed="2017-06-14T02-24-26" Translated="2017-06-14T02-24-26" State="Validated">
+              <cur>Путь/URL:</cur>
+            </Trg>
           </Vl>
           <Vl Index="13311">
             <Src>Редактор закладок</Src>
@@ -7367,6 +7369,132 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Src>
             <Trg Created="2017-05-12T14-48-15" Changed="2017-05-12T14-59-25" Translated="2017-05-12T14-59-25" State="Validated">
               <cur>Показать или скрыть панель закладок</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="56058">
+            <Src>Менеджер закладок</Src>
+            <Trg Created="2017-06-14T02-00-57" Translated="2017-06-14T02-01-48" State="Validated"/>
+          </Vl>
+          <Vl Index="56059">
+            <Src>Закладка Категория</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-02-29" Translated="2017-06-14T02-02-29" State="Validated">
+              <cur>Категории закладок</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="56060">
+            <Src>Добавить категорию</Src>
+            <Trg Created="2017-06-14T02-00-57" Translated="2017-06-14T02-01-35" State="Validated"/>
+          </Vl>
+          <Vl Index="56061">
+            <Src>список закладок</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-01-44" Translated="2017-06-14T02-01-44" State="Validated">
+              <cur>Список закладок</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="56062">
+            <Src>Добавить закладку</Src>
+            <Trg Created="2017-06-14T02-00-57" Translated="2017-06-14T02-01-39" State="Validated"/>
+          </Vl>
+          <Vl Index="56063">
+            <Src>Вы уверены, что хотите удалить это Вы?</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-02-18" Translated="2017-06-14T02-02-18" State="Validated">
+              <cur>Вы уверены, что хотите удалить эту закладку?</cur>
+            </Trg>
+          </Vl>
+        </Resource>
+        <Resource Name="" Index="3505">
+          <SourceLanguages>
+            <LangID>2052</LangID>
+          </SourceLanguages>
+          <Vl Index="56064">
+            <Src>Переименовать (&amp;R),</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-15-19" Translated="2017-06-14T02-15-19" State="Validated">
+              <cur>Переименовать (&amp;R)</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="56065">
+            <Src>Удалить (&amp;D)</Src>
+            <Trg Created="2017-06-14T02-00-57" Translated="2017-06-14T02-06-16" State="Validated"/>
+          </Vl>
+          <Vl Index="56066">
+            <Src>Добавить категорию</Src>
+            <Trg Created="2017-06-14T02-00-57" Translated="2017-06-14T02-01-35" State="Validated"/>
+          </Vl>
+          <Vl Index="56068">
+            <Src>Изменить (&amp;М)</Src>
+            <Trg Created="2017-06-14T02-00-57" Translated="2017-06-14T02-06-24" State="Validated"/>
+          </Vl>
+          <Vl Index="56069">
+            <Src>Удалить (&amp;D)</Src>
+            <Trg Created="2017-06-14T02-00-57" Translated="2017-06-14T02-06-33" State="Validated"/>
+          </Vl>
+          <Vl Index="56070">
+            <Src>Добавить закладку</Src>
+            <Trg Created="2017-06-14T02-00-57" Translated="2017-06-14T02-06-43" State="Validated"/>
+          </Vl>
+          <Vl Index="56071">
+            <Src>категория закладки</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-06-49" Translated="2017-06-14T02-06-49" State="Validated">
+              <cur>Добавить категорию</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="56072">
+            <Src>название категории:</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-26-19" Translated="2017-06-14T02-26-19" State="Validated">
+              <cur>Имя:</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="56073">
+            <Src>Сохранить</Src>
+            <Trg Created="2017-06-14T02-00-57" Translated="2017-06-14T02-07-32" State="Validated"/>
+          </Vl>
+          <Vl Index="56074">
+            <Src>Пожалуйста, введите название категории закладки!</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-21-45" Translated="2017-06-14T02-21-45" State="Validated">
+              <cur>Пожалуйста, введите имя категории!</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="56075">
+            <Src>Введите название категории закладок более 20 символов!</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-21-49" Translated="2017-06-14T02-21-49" State="Validated">
+              <cur>Имя категории длиннее 20 символов!</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="56076">
+            <Src>имя закладки:</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-26-08" Translated="2017-06-14T02-26-08" State="Validated">
+              <cur>Имя:</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="56077">
+            <Src>Пожалуйста, введите имя закладки!</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-21-53" Translated="2017-06-14T02-21-53" State="Validated"/>
+          </Vl>
+          <Vl Index="56078">
+            <Src>Введите имя закладки более 20 символов!</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-21-58" Translated="2017-06-14T02-21-58" State="Validated">
+              <cur>Имя закладки длиннее 20 символов!</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="56079">
+            <Src>адрес файла / URL:</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-24-17" Translated="2017-06-14T02-24-17" State="Validated">
+              <cur>Путь/URL:</cur>
+            </Trg>
+          </Vl>
+        </Resource>
+        <Resource Name="" Index="3506">
+          <SourceLanguages>
+            <LangID>2052</LangID>
+          </SourceLanguages>
+          <Vl Index="56080">
+            <Src>Удалить выбранное</Src>
+            <Trg Created="2017-06-14T02-00-57" Translated="2017-06-14T02-10-22" State="Validated"/>
+          </Vl>
+          <Vl Index="56081">
+            <Src>Статья Закладка</Src>
+            <Trg Created="2017-06-14T02-00-57" Changed="2017-06-14T02-11-00" Translated="2017-06-14T02-11-00" State="Validated">
+              <cur>Панель закладок</cur>
             </Trg>
           </Vl>
         </Resource>
