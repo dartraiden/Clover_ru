@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <RadialixLocalizerProject>
   <Header FileVersion="19" Guid="{A65620C3-B9EF-41F3-89D0-FFC24093DF43}"/>
-  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3505" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
-    <StringTableSettings FocusedValueID="#3505.#56073" SortDirection="0" SortedColumnIndex="-1"/>
+  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#833" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
+    <StringTableSettings FocusedValueID="#833.#13314" SortDirection="0" SortedColumnIndex="-1"/>
     <TextTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <AccelTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <ImageTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
@@ -15,7 +15,7 @@
     </Languages>
     <Info>
       <CreatedBy Date="2016-09-02T00-47-13">Radialix Версия 3.00.00  Сборка 486</CreatedBy>
-      <ModifiedBy Date="2017-06-14T02-26-19">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
+      <ModifiedBy Date="2017-06-14T02-34-07">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
       <Author>Dart Raiden</Author>
       <Organization/>
       <Comment/>
@@ -943,7 +943,7 @@
       <DialogUnits>1</DialogUnits>
     </FormSettings>
     <TextTemplates/>
-    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Parser="Win32Executable" DateTimeStamp="4676128956089459372" FileSize="276480">
+    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Module="{7A68A39D-DCE6-4630-8696-F4F6E40CEDF0}" Parser="Win32Executable" DateTimeStamp="4676128045633100736" FileSize="276480">
       <LangSettings/>
       <ExportSettings Current="Glossary">
         <Glossary FileName="" SortData="1" SkipDuplicates="1" RemoveAccelerators="1" RemoveAccelKeys="1" CaseSensitive="0">
@@ -6899,8 +6899,8 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
           </Vl>
           <Vl Index="13313">
             <Src>Панель для закладок...\0x20\0x20</Src>
-            <Trg Created="2016-09-02T00-47-58" Changed="2016-09-02T01-57-05" Translated="2016-09-02T01-57-05" State="Validated">
-              <cur>Закладки могут быть размещены непосредственно на панели закладок.</cur>
+            <Trg Created="2016-09-02T00-47-58" Changed="2017-06-14T02-32-48" Translated="2017-06-14T02-32-48" State="Validated">
+              <cur>Вы можете разместить здесь закладки для облегчения доступа к ним.</cur>
             </Trg>
           </Vl>
           <Vl Index="13314">
