@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <RadialixLocalizerProject>
   <Header FileVersion="19" Guid="{A65620C3-B9EF-41F3-89D0-FFC24093DF43}"/>
-  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3502" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
-    <StringTableSettings FocusedValueID="#3502.#56022" SortDirection="0" SortedColumnIndex="-1"/>
+  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6]" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
+    <StringTableSettings FocusedValueID="#1148.#18367" SortDirection="0" SortedColumnIndex="-1"/>
     <TextTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <AccelTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <ImageTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
@@ -15,7 +15,7 @@
     </Languages>
     <Info>
       <CreatedBy Date="2016-09-02T00-47-13">Radialix Версия 3.00.00  Сборка 486</CreatedBy>
-      <ModifiedBy Date="2017-07-08T21-09-23">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
+      <ModifiedBy Date="2017-07-08T21-19-10">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
       <Author>Dart Raiden</Author>
       <Organization/>
       <Comment/>
@@ -943,7 +943,7 @@
       <DialogUnits>1</DialogUnits>
     </FormSettings>
     <TextTemplates/>
-    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Module="{5EBBFCC9-E374-48FF-B526-5E4AAF8DC94A}" Parser="Win32Executable" DateTimeStamp="4676128045633100736" FileSize="276480">
+    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Module="{54088D3C-E317-4A2C-823A-0C5A13570B80}" Parser="Win32Executable" DateTimeStamp="4676132364737847288" FileSize="276992">
       <LangSettings/>
       <ExportSettings Current="Glossary">
         <Glossary FileName="" SortData="1" SkipDuplicates="1" RemoveAccelerators="1" RemoveAccelKeys="1" CaseSensitive="0">
@@ -6300,7 +6300,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
           </Vl>
         </Resource>
       </ResourceType>
-      <ResourceType Name="RT_STRING" Index="6" Class="RT_STRING">
+      <ResourceType New="1" Name="RT_STRING" Index="6" Class="RT_STRING">
         <Resource Name="" Index="7">
           <SourceLanguages>
             <LangID>2052</LangID>
@@ -6907,6 +6907,23 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Src>Переименовать(R)...</Src>
             <Trg Created="2016-09-02T00-47-58" Changed="2016-09-02T00-54-12" Translated="2016-09-02T00-54-12" State="Validated">
               <cur>Переименовать (R)...</cur>
+            </Trg>
+          </Vl>
+        </Resource>
+        <Resource Name="" Index="1148" New="1">
+          <SourceLanguages>
+            <LangID>2052</LangID>
+          </SourceLanguages>
+          <Vl Index="18366" New="1">
+            <Src>Open in een nieuw venster.........</Src>
+            <Trg Created="2017-07-08T21-15-13" Changed="2017-07-08T21-16-59" Translated="2017-07-08T21-16-59" State="Validated">
+              <cur>Открыть в новом окне</cur>
+            </Trg>
+          </Vl>
+          <Vl Index="18367" New="1">
+            <Src>Открыть все закладки в новом окне</Src>
+            <Trg Created="2017-07-08T21-15-13" Changed="2017-07-08T21-18-46" Translated="2017-07-08T21-18-46" State="Validated">
+              <cur>Открыть в новой вкладке</cur>
             </Trg>
           </Vl>
         </Resource>
