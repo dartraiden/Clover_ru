@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <RadialixLocalizerProject>
   <Header FileVersion="19" Guid="{A65620C3-B9EF-41F3-89D0-FFC24093DF43}"/>
-  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#833" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
-    <StringTableSettings FocusedValueID="#833.#13314" SortDirection="0" SortedColumnIndex="-1"/>
+  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3502" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
+    <StringTableSettings FocusedValueID="#3502.#56022" SortDirection="0" SortedColumnIndex="-1"/>
     <TextTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <AccelTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <ImageTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
@@ -15,14 +15,14 @@
     </Languages>
     <Info>
       <CreatedBy Date="2016-09-02T00-47-13">Radialix Версия 3.00.00  Сборка 486</CreatedBy>
-      <ModifiedBy Date="2017-06-14T02-34-07">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
+      <ModifiedBy Date="2017-07-08T21-09-23">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
       <Author>Dart Raiden</Author>
       <Organization/>
       <Comment/>
       <WebSite/>
       <ContactEMail/>
       <Copyright/>
-      <Version MajorNumber="1" MinorNumber="0" Revision="0" Build="37" AutoIncrementBuildNumber="1"/>
+      <Version MajorNumber="1" MinorNumber="0" Revision="0" Build="38" AutoIncrementBuildNumber="1"/>
     </Info>
     <Publisher>
       <ApplicationName>&lt;Title&gt; &lt;WinCode&gt;</ApplicationName>
@@ -943,7 +943,7 @@
       <DialogUnits>1</DialogUnits>
     </FormSettings>
     <TextTemplates/>
-    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Module="{7A68A39D-DCE6-4630-8696-F4F6E40CEDF0}" Parser="Win32Executable" DateTimeStamp="4676128045633100736" FileSize="276480">
+    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Module="{5EBBFCC9-E374-48FF-B526-5E4AAF8DC94A}" Parser="Win32Executable" DateTimeStamp="4676128045633100736" FileSize="276480">
       <LangSettings/>
       <ExportSettings Current="Glossary">
         <Glossary FileName="" SortData="1" SkipDuplicates="1" RemoveAccelerators="1" RemoveAccelKeys="1" CaseSensitive="0">
@@ -7193,7 +7193,9 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
           </Vl>
           <Vl Index="56021">
             <Src>Копировать</Src>
-            <Trg Created="2016-10-12T09-27-54" Translated="2016-10-12T09-28-10" State="Validated"/>
+            <Trg Created="2016-10-12T09-27-54" Changed="2017-07-08T21-01-43" Translated="2017-07-08T21-01-43" State="Validated">
+              <cur>Дублировать</cur>
+            </Trg>
           </Vl>
           <Vl Index="56022">
             <Src>закрепить вкладку</Src>
