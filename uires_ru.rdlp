@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <RadialixLocalizerProject>
   <Header FileVersion="19" Guid="{A65620C3-B9EF-41F3-89D0-FFC24093DF43}"/>
-  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3445" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
-    <StringTableSettings FocusedValueID="#3445.#55116" SortDirection="0" SortedColumnIndex="-1"/>
+  <IDESettings ProjectItemPath="0.uires_ru.dll (uires_ru_rus.dll).RT_STRING[6].#3505" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
+    <StringTableSettings FocusedValueID="#3506.#56083" SortDirection="0" SortedColumnIndex="-1"/>
     <TextTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <AccelTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <ImageTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
@@ -15,14 +15,14 @@
     </Languages>
     <Info>
       <CreatedBy Date="2016-09-02T00-47-13">Radialix Версия 3.00.00  Сборка 486</CreatedBy>
-      <ModifiedBy Date="2018-03-01T14-52-22">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
+      <ModifiedBy Date="2018-04-16T15-18-27">Radialix Версия 3.00.00  Сборка 486</ModifiedBy>
       <Author>Dart Raiden</Author>
       <Organization/>
       <Comment/>
       <WebSite/>
       <ContactEMail/>
       <Copyright/>
-      <Version MajorNumber="1" MinorNumber="0" Revision="0" Build="42" AutoIncrementBuildNumber="1"/>
+      <Version MajorNumber="1" MinorNumber="0" Revision="0" Build="47" AutoIncrementBuildNumber="1"/>
     </Info>
     <Publisher>
       <ApplicationName>&lt;Title&gt; &lt;WinCode&gt;</ApplicationName>
@@ -943,7 +943,7 @@
       <DialogUnits>1</DialogUnits>
     </FormSettings>
     <TextTemplates/>
-    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Module="{4F91122B-115E-49F4-8A1F-858E36264CB1}" Parser="Win32Executable" DateTimeStamp="4676164762260893771" FileSize="481632">
+    <File Name="C:\Program Files (x86)\Clover\lang\uires_ru.dll" Module="{6DFA3DFB-C3D0-410B-B530-580392C0F1EE}" Parser="Win32Executable" DateTimeStamp="4676170259955722371" FileSize="481632">
       <LangSettings/>
       <ExportSettings Current="Glossary">
         <Glossary FileName="" SortData="1" SkipDuplicates="1" RemoveAccelerators="1" RemoveAccelKeys="1" CaseSensitive="0">
@@ -11330,7 +11330,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Trg Created="2016-09-02T00-47-58" Translated="2016-09-02T00-50-01" State="Validated"/>
           </Vl>
         </Resource>
-        <Resource Name="" Index="3445" New="1">
+        <Resource Name="" Index="3445">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -11378,7 +11378,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             <Src>Центр пользователя</Src>
             <Trg Created="2017-01-20T02-21-22" Translated="2017-01-20T02-25-23" State="Validated"/>
           </Vl>
-          <Vl Index="55116" New="1">
+          <Vl Index="55116">
             <Src>
               <Data>Проблемы\0xA0\0xA0обратной связи\0xA0</Data>
             </Src>
@@ -11814,7 +11814,7 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
             </Trg>
           </Vl>
         </Resource>
-        <Resource Name="" Index="3506">
+        <Resource Name="" Index="3506" New="1">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -11828,10 +11828,20 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
               <cur>Панель закладок</cur>
             </Trg>
           </Vl>
+          <Vl Index="56082" New="1" Ignore="1">
+            <Src>CTRL + K</Src>
+            <Trg Created="2018-04-16T15-08-04" Translated="2018-04-16T15-10-29" State="Validated"/>
+          </Vl>
+          <Vl Index="56083" New="1">
+            <Src>Клонные вкладки</Src>
+            <Trg Created="2018-04-16T15-08-04" Changed="2018-04-16T15-17-30" Translated="2018-04-16T15-17-30" State="Validated">
+              <cur>Дублировать вкладку</cur>
+            </Trg>
+          </Vl>
         </Resource>
       </ResourceType>
-      <ResourceType Name="RT_ACCELERATOR" Index="9" Class="RT_ACCELERATOR">
-        <Resource Name="" Index="34464">
+      <ResourceType New="1" Name="RT_ACCELERATOR" Index="9" Class="RT_ACCELERATOR">
+        <Resource Name="" Index="34464" New="1">
           <SourceLanguages>
             <LangID>2052</LangID>
           </SourceLanguages>
@@ -11913,10 +11923,6 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
           </Vl>
           <Vl Index="39002" ReadOnly="1">
             <Src>Ctrl+K</Src>
-            <Trg Created="2016-09-02T00-47-58"/>
-          </Vl>
-          <Vl Index="39002" ReadOnly="1">
-            <Src>Ctrl+E</Src>
             <Trg Created="2016-09-02T00-47-58"/>
           </Vl>
           <Vl Index="39000" ReadOnly="1">
@@ -12169,6 +12175,10 @@ wAMAAMAHAAAADwAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAwAAwQMAAMMHAAD/hwAA</Src>
           </Vl>
           <Vl Index="38001" ReadOnly="1">
             <Src>Ctrl+ADD</Src>
+            <Trg Created="2016-09-02T00-47-58"/>
+          </Vl>
+          <Vl Index="39002" Deleted="1" ReadOnly="1">
+            <Src>Ctrl+E</Src>
             <Trg Created="2016-09-02T00-47-58"/>
           </Vl>
         </Resource>
